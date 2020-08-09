@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Heebo', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+    background-color: #141518 !important;
+}
+.master-box {
+    background-color: #333333;
+    color: white;
+}
